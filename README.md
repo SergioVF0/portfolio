@@ -8,7 +8,7 @@ Mi rincón en la web donde muestro mi trayectoria como **Ingeniero Informático*
 - **Despliegue:** GitHub Pages / Vercel.
 
 ## Proyectos Destacados
-- **pkt-cup-clips:** Gestión de clips con +10k visitas.
+- **pkt-cup-clips:** Gestión de clips con +10k visitas: https://pkm-tc-clips.com/
 
 ---
 Graduado en la **UVigo** | Máster en la **UDC** (Computación Cuántica).
